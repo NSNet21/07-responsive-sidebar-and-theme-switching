@@ -33,6 +33,8 @@ Built entirely with **HTML, CSS, and Vanilla JavaScript** — no frameworks, onl
 - Theme preference is **saved automatically** using `localStorage`.
 - Animated icon transitions (`sun ☀️` ⇄ `moon 🌙`).
 
+---
+
 ### 🧭 Interactive Sidebar
 
 - **Collapsible sidebar** with smooth width animation.
@@ -40,16 +42,22 @@ Built entirely with **HTML, CSS, and Vanilla JavaScript** — no frameworks, onl
 - Auto-closes on small screens when clicking outside.
 - Icons and text fade elegantly between collapsed/expanded states.
 
+---
+
 ### 🔍 Search Integration
 
 - Interactive search box inside the sidebar.
 - **Auto-focus** when sidebar expands from collapsed state via search icon click.
 - Highlighted border when active (using `:focus-within`).
 
+---
+
 ### ⚙️ Active Link Highlighting
 
 - Clicked link automatically gains `active` state.
 - Automatically removes previous active highlight.
+
+---
 
 ---
 
